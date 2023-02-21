@@ -27,7 +27,7 @@ In Dark Theme
 In Light Theme 
 
 <img src="lightModeDesktop.png">
-<img src="lightModeDesktop.png">
+<img src="lightModeMobile.png">
 
 
 
