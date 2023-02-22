@@ -36,6 +36,12 @@ In Light Theme
 <img src="html,css,js.png">
 
 
+## Show your Support
+__________
+Please ⭐️ this repository if this project helped you!
+
+This README is created with ❤ by Yash Raj.
+
 
 
 
