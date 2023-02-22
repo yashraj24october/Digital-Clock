@@ -4,7 +4,7 @@ This project is a simple fully responsive  digital clock website in which you ca
 
 
 
-## Getting Started and Features
+## 📄Getting Started and Features
 ----
 To get started, simple open this link -> [Digital Clock] linkUrl
 in your browser.
@@ -15,7 +15,7 @@ in your browser.
 * You can switch between dark and light modes by clicking on the toggle button on the bottom-left of the screen. 
 This will change the overall look of the clock and screen.
 
-## Screenshots
+## 📷 Screenshots
 -----
 In Dark Theme 
 
