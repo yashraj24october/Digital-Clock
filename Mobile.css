@@ -1,0 +1,94 @@
+  /* @media screen and (max-width:480px) { */
+    * {
+            margin: 0;
+            padding: 0;
+        }
+
+body{
+background-image: url('webimage.jpg');
+background-size: cover;
+background-repeat:no-repeat;
+height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+padding:10px;
+}
+    #heading {
+    background: linear-gradient(to bottom,blue,black);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color:transparent;
+   margin-bottom:50px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /* text-shadow:2px 2px 6px yellow,-2px -2px 6px blue; */
+       }
+
+#clockBox{ 
+ color: white;
+  display: flex;
+justify-content: center;
+ align-items: center;
+border: 7px solid white;
+outline:2px solid skyblue;
+background: url(day.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height:120px;
+padding:10px;
+border-radius: 10px;
+box-shadow: 6px 6px 2px pink, -6px -6px 2px pink;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.text{
+ color:blue;
+   text-shadow:2px 2px 6px yellow,-2px -2px 6px yellow;
+}
+.colon{
+font-size: 50px;
+position:relative;
+bottom:10px;
+color:white;
+margin-left:10px;
+margin-right:20px;
+}
+  
+.timeBox{
+text-align:center;
+text-shadow: 2px 2px 5px black;
+}
+
+#time{
+color:white;
+text-shadow: 2px 2px 5px black;
+margin-left:5px;
+}
+
+  #themeSwitcher{
+  margin-top:20px;
+  font-weight: bolder;
+  border-radius:10px;
+  cursor: pointer;
+   padding: 8px;
+   font-size:1rem;
+  outline: 2px solid pink;
+  border: 2px solid white;
+   background-color: skyblue;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  }
+
+   #themeSwitcher:hover{
+   color:yellow;
+   background: #000;
+   }
+
+#profileLink{
+text-decoration: none;
+
+}
+footer{
+position:absolute;
+bottom:10px;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+  /* } */

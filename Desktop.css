@@ -1,0 +1,32 @@
+@media screen and (min-width:480px){
+
+       #clockBox {
+       padding-left:60px;
+       padding-right:60px;
+       height:180px;
+       border-radius:20px;
+       outline: none;
+        }
+
+        .timeBox{
+        font-size:2rem;
+        }
+         #heading {
+         margin-bottom:30px;
+         }
+
+         .colon{
+         font-size:80px;
+         }
+
+         #time{
+         font-size:50px;
+         margin-left:15px;
+         }
+         footer{
+position:absolute;
+bottom:40px;
+}
+}
+
+
