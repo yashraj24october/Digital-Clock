@@ -6,7 +6,7 @@ This project is a simple fully responsive  digital clock website in which you ca
 
 ## Getting Started and Features
 ----
-To get started, simple open this link -> [Digital Clock] linkUrl
+To get started, simply open this link -> https://yashraj24october.github.io/Digital-Clock/
 in your browser.
 
 
